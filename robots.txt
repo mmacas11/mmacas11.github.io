@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://mayramacasc.github.io/sitemap.xml
